@@ -1,3 +1,5 @@
+<!-- Make sure to update this with info about your app -->
+<!-- https://github.com/alchemycodelab/foundations-i-june-2021/blob/main/curriculum/99-project-week-kickoff/project-guidelines.md#documentation -->
 # Alchemy Dev 101 Template
 
 ## Making a plan!

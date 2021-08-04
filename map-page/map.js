@@ -44,7 +44,6 @@ for (let item of companions){
 
     compaSection.appendChild(showCompanions);
 }
-// console.log(name);
 
 var ctx = document.getElementById('myChart').getContext('2d');
 // eslint-disable-next-line no-undef
